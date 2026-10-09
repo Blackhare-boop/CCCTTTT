@@ -2,6 +2,6 @@
 
 int main()
 {
-    print("I wrongly do my homework")
+    std:cout<<"hello world"<<endl
     printf("Hello, world!\n");
 }
