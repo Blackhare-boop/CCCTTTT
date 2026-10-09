@@ -2,6 +2,6 @@
 
 int main()
 {
-    std:cout<<"hello world"<<endl
+    prin("forget!")
     printf("Hello, world!\n");
 }
