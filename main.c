@@ -2,6 +2,6 @@
 
 int main()
 {
-    print("slove")
+    printf("This is a revision\n")
     printf("Hello, world!\n");
 }
